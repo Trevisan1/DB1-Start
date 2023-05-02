@@ -1,0 +1,126 @@
+Quais são os modelos de ciclo de
+vida de um software existentes?
+
+- Cascata (1956)
+- Iterativo e Incremental (1968)
+- Espiral (1986)
+- RUP (1996)
+- Ágil (SCRUM, XP, KANBAN, entre outros)
+
+
+
+Pontos fortes e fracos de cada modelo:
+
+  
+  Cascata (1956)
+
+pontos fortes:
+- modelo de fácil entendimento;
+- útil em escopos com pouca complexidade;
+- eficiente quando os requisitos estão bem definidos;
+- útil para adequações em um sistema existente;
+
+pontos fracos:
+- projetos reais dificilmente seguem o fluxo sequencial
+- é dificil o cliente saber explicitamente todas as suas necessidades
+- versão operacional para o cliente somente estará disponível no final do projeto podendo causar impaciência 
+
+
+  Iterativo e Incremental (1968)
+
+pontos fortes:
+- menor custo para acomodar mudanças nos requisitos (análises e documentações);
+- útil em situações de poucos recursos humanos, ajudando no menor custo também;
+- aplica o conceito de módulos operacionais, ou seja, o cliente pode utilizar o software e obter ganhos
+mesmo com o produto incompleto;
+- os incrementos servem para avaliação do usuário, tendo assim feedbacks de uso para mudanças;
+- ajuda a administrar riscos técnicos
+
+pontos fracos:
+- o processo não é visível, ou seja, os gerentes precisam de entregas regulares para mensurar o progresso,
+se os sistemas são desenvolvidos com rapidez, não é economicamente viável produzir documentos que reflitam
+cada uma das versões do sistema;
+- diferentes equipes em diferentes partes do sistema: sistemas de grande porte exigem uma arquitetura estável, 
+as responsabilidades das diferentes equipes de trabalho do sistema precisam estar claramente estabelecidas
+respeitando a arquitetura e isso deve ser planejado com antecedência e não desenvolvido de forma incremental;
+- adequações muito complexas em incrementos já operacionais;
+- a estrutura do sistema tende a se degradar com adição de novos incrementos, as constantes mudanças tende
+a corromper sua estrutura e incorporar futuras mudanças do software torna-se cada vez mais difícil e oneroso;
+
+
+  Espiral (1986) 
+
+pontos fortes:
+- é uma abordagem realista para o desenvolvimento em larga escala, ou seja, mantem a abordagem em etapas sugerida
+pelo modelo em cascata, mas incorpora a natureza incremental e iterativa que reflete mais realisticamente
+o mundo real;
+- melhor compreensão e reação aos riscos em cada nível evolucionário;
+- é possível a prototipação em qualquer estágio do produto;
+- reduz os riscos antes de se tornarem problemáticos;
+
+pontos fracos:
+- pode ser difícil convencer o cliente de que a abordagem evolucionária é controlável, particularmente em
+ocasiões contratuais;
+- exige especialização na avaliação de riscos
+- se um risco não for descoberto e administrado, ocorrerão sérios problemas no resultado final;
+
+
+  RUP (1996)
+
+pontos fortes:
+- os maiores riscos são avaliados em primeira análise, o que diminui as chances de fracasso do projeto;
+- robusto e bem definido com a geração de artefatos importantes;
+- controle sobre desenvolvimento dentro de custos, prazos e níveis de qualidade;
+- produtividade no desenvolvimento, operação e manutenção do software;
+- prioriza detalhamento;
+- excesso de documentos;
+
+pontos fracos:
+- complexo e trabalhoso para projetos de pequeno porte;
+- exige experiência da equipe;
+- exige equipes especialistas;
+- não é bom em gerenciamento de tempo;
+- excesso de documentos;
+
+
+  Ágeis (SCRUM, XP, KANBAN, entre outros)
+
+pontos fortes:
+- Reduzem o tempo da entrega da primeira versão do software pedido;
+- Reduz o número de projetos falhados;
+- Cliente satisfeito com interação e entregas;
+- Aumento do controle dos gestores pelas tarefas a curto prazo;
+- Menos especulação e mais visibilidade;
+- Aproxima os desenvolvedores e gestores, pois existe uma melhor comunicação (bom ambiente
+pode ser sinônimo de maior produtividade dos indivíduos)
+
+pontos fracos:
+- Não são escaláveis;
+- Não foram desenhados para projetos muito longos;
+- É mais difícil com times grandes;
+- Menor controle dos custos;
+- O projeto termina quando o cliente não levantarm ais funcionalidades relevantes,
+em oposição a ser acordado um preço e um plano, consequentemente, durações e custos
+podem variar e dificultar a gestão;
+
+
+
+Se você fosse dono de uma empresa de
+software, qual modelo você escolheria e por
+quê?
+
+A minha escolha dependeria da magnitude do projeto e ênfase de projetos da empresa, mas de forma geral
+escolheria as metodologias ágeis, tendo em vista que a experiência do cliente com o desenvolvimento é crucial
+para sua satisfação, e se for uma boa experiência, é mais um cliente satisfeito que vai falar bem da empresa,
+gerando renome. Outro fator seria a melhor gestão das tarefas e de tempo, o que ocasina um melhor ambiente 
+organizacional, sem mencionar a aproximação entre o time de desenvolvimento e gestão, gerando dentro da 
+empresa um bom ambiente de trabalho, consequentemente maior produtividade. Em resumo, uma empresa que garante
+a alta qualidade das suas entregas, executadas em menos tempo, em processos mais curtos e com foco na 
+satisfação dos seus clientes é, sem dúvidas, mais valorizada e é aí que entra as metodologias ágeis.
+
+
+
+
+
+   
+
